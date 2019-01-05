@@ -1,0 +1,19 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+#carajo y mas carajo
+
+User-agent: *
+Allow: /
+Disallow: /cupones506/
+Disallow: /images/
+Disallow: /dev/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /system/
+Disallow: /negocios506/
+Disallow: /hoteles506/
+Disallow: /css/
+Disallow: /svg/
+Disallow: /restaurantes506/
+Disallow: /ads/
+

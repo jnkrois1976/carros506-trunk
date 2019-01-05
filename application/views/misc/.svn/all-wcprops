@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/carros506/!svn/ver/484/trunk/application/views/misc
+END
+content_profile_locked.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/carros506/!svn/ver/484/trunk/application/views/misc/content_profile_locked.php
+END
+new_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/carros506/!svn/ver/326/trunk/application/views/misc/new_password.php
+END
+reset_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/carros506/!svn/ver/326/trunk/application/views/misc/reset_password.php
+END
+sent_instructions.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/carros506/!svn/ver/484/trunk/application/views/misc/sent_instructions.php
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/carros506/!svn/ver/374/trunk/application/views/misc/welcome.php
+END
+not_authenticated.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/carros506/!svn/ver/484/trunk/application/views/misc/not_authenticated.php
+END
+custom_404_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/carros506/!svn/ver/423/trunk/application/views/misc/custom_404_error.php
+END
+browser_upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/carros506/!svn/ver/477/trunk/application/views/misc/browser_upgrade.php
+END
+authenticate.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/carros506/!svn/ver/484/trunk/application/views/misc/authenticate.php
+END
